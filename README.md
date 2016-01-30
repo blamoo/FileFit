@@ -9,4 +9,6 @@ Com 8GB de memória dá estouro com pouco mais de 27 pastas.
 
 Enfim, qualquer dia eu arrumo isso. Ou não.
 
+Ah, o cálculo do tamanho do cluster também não está certo, mas é mais preciso que um "soma-tudo-e-boa". Tenho que ler a spec do ISO9960 para calcular o overhead direito... Ou não.
+
 ![Screenshot](https://github.com/Blamoo/FileFit/blob/master/resources/demo.png?raw=true)
